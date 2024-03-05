@@ -1,0 +1,2 @@
+# traffic-light-timer
+traffic signal timers have generally a fixed timer to switch between different directions,which may lead to waste of time so in order to save time we can use machine learning by considering parameters such as distance,no of vehicles,day,time,age,purpose that is if the person going is employee or student represented by 1 or whether the person is going for the pupose of entertainment represented by 2.by these parameters we can apply regression method and find no of seconds we should allot for traffic flow.
